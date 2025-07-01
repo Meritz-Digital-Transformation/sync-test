@@ -1,7 +1,3 @@
-# sync-test
-sync test
+## GitHub -> 사내 GitLab 실시간 동기화 테스트
 
-실시간 동기화 테스트
-Hello, World!
-
-평양냉면
+잘 되는 것 같다.
